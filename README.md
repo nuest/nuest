@@ -1,6 +1,6 @@
 # Hi 👋
 
-I (😄 he/him) am a postdocoral researcher at the [Chair of Geoinformatics](https://tu-dresden.de/bu/umwelt/geo/geoinformatik/?set_language=en) at the [Technical University Dresden](https://tu-dresden.de/) and at the [Spatio-temporal Modelling Lab](http://ifgi.uni-muenster.de/labs/spatio-temporal-modelling-lab/) at the 📍 [Institute for Geoinformatics]() (ifgi) at the 🏫 [University of Münster](https://uni-muenster.de/Geoinformatics). I'm working on projects to make research in 🗺️ geography, 🌍🌏🌎 geosciences, and 🗺️❤️💻 GIScience more open, reproducible, and accessible.
+I (he/him) am a postdocoral researcher at the [Chair of Geoinformatics](https://tu-dresden.de/bu/umwelt/geo/geoinformatik/?set_language=en) at the [Technical University Dresden](https://tu-dresden.de/) and at the [Spatio-temporal Modelling Lab](http://ifgi.uni-muenster.de/labs/spatio-temporal-modelling-lab/) at the 📍 [Institute for Geoinformatics]() (ifgi) at the 🏫 [University of Münster](https://uni-muenster.de/Geoinformatics). I'm working on projects to make research in 🗺️ geography, 🌍🌏🌎 geosciences, and 🗺️❤️💻 GIScience more open, reproducible, and accessible.
 I think about both 🗃️💿 data and 🧑‍💻 software to achieve that.
 I strive to adhere to 👐 [Open Science](https://en.wikipedia.org/wiki/Open_science) principles and 📢 advocate for open reproducible research.
 
