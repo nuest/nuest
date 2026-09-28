@@ -15,7 +15,7 @@ I strive to adhere to 👐 [Open Science](https://en.wikipedia.org/wiki/Open_sci
 ## 👍 Interests
 
 I am interested in 🤔 improving the scholarly 📃 publication and 👯 communication process with new 🚀 information technology — of course with ⚡ Open Source software!
-I completed my 🧑‍🎓 PhD [_Infrastructures and Practices for Reproducible Research in Geography, Geosciences, and GIScience_](https://doi.org/10.5281/zenodo.4768095) in 2022 in 👨‍🏫 [Edzer Pebesma's](https://github.com/edzer/) [Spatiotemporal Modelling Lab](http://ifgi.uni-muenster.de/labs/spatio-temporal-modelling-lab/) at the 📍 [Institute for Geoinformatics]() (ifgi) at the 🏫 [University of Münster](https://uni-muenster.de/Geoinformatics).
+I completed my 🧑‍🎓 PhD [_Infrastructures and Practices for Reproducible Research in Geography, Geosciences, and GIScience_](https://doi.org/10.5281/zenodo.4768095) in 2022 in 👨‍🏫 [Edzer Pebesma's](https://github.com/edzer/) [Spatiotemporal Modelling Lab](http://ifgi.uni-muenster.de/labs/spatio-temporal-modelling-lab/) at the 📍 [Institute for Geoinformatics](https://www.uni-muenster.de/Geoinformatics/) (ifgi) at the 🏫 [University of Münster](https://uni-muenster.de/).
 My publications, CV, memberships, and service are in my [🟢 ORCID profile](https://orcid.org/0000-0002-0024-5046).
 Before academia, I worked as a consultant and research software engineer at [52°North Spatial Information Research GmbH](https://github.com/52north/).
 Because reserach doesn't work without software anymore, I was a vice chair of the German association of research software engineers ([de-RSE](https://de-rse.org/en/)) and am a self-identifying [RSE](https://software.ac.uk/research-software-engineers).
