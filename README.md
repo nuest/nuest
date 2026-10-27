@@ -1,6 +1,6 @@
 # Hi 👋
 
-I (he/him) am a postdoctoral researcher at [GEOMAR](https://www.geomar.de/en/) with the 🌉 [NFDI](https://www.nfdi.de/) consortium for Earth System Sciences - 🌍 [NFDI4Earth](https://nfdi4earth.de/).
+I (he/him) am a postdoctoral researcher at 🌊 [GEOMAR](https://www.geomar.de/en/) with the 🌉 [NFDI](https://www.nfdi.de/) consortium for Earth System Sciences - 🌍 [NFDI4Earth](https://nfdi4earth.de/).
 I'm working on projects to make research in 🗺️ geography, 🌍🌏🌎 geosciences, and 🗺️❤️💻 GIScience more open, reproducible, and discoverable.
 I think about both 🗃️💿 data and 🧑‍💻 software to achieve that and have a passion for 🎚️ metadata.
 I strive to adhere to 👐 [Open Science](https://en.wikipedia.org/wiki/Open_science) principles and 📢 advocate for open reproducible research and open scholarship.
